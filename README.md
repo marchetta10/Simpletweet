@@ -93,6 +93,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Simpletweet part 2](https://user-images.githubusercontent.com/74275161/107888619-8bf64d80-6edb-11eb-9ffe-93a760b26eab.gif)
+
+
 
 ## Notes
 
